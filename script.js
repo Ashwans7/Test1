@@ -4,20 +4,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const response = document.getElementById('response');
 
     const poems = [
-        `My love for you grows deeper each day,
-        Like stars that light up the Milky Way.
-        You're the missing piece I've been searching for,
-        My heart is yours, forever more.`,
-        
-        `In your eyes, I see my future bright,
-        Your love guides me through the darkest night.
-        Together we'll build our dreams so true,
-        My heart beats only, my dear, for you.`,
-        
-        `Like roses blooming in spring sunshine,
-        My love grows stronger, yours and mine.
-        Forever with you is all I need,
-        Our hearts united, forever freed.`
+        `I love you more bbygirl ❤️💖💝`,
+        `I love you more bbygirl 💑💏💘`,
+        `I love you more bbygirl 💕💗💓`
     ];
 
     yesBtn.addEventListener('click', () => {
