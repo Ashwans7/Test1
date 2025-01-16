@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const poems = [
         `I love you more bbygirl ❤️💖💝`,
-        `I love you more bbygirl 💑💏💘`,
+        
         `I love you more bbygirl 💕💗💓`
     ];
 
